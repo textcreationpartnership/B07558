@@ -1,0 +1,1093 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The death of vsury, or, The disgrace of vsurers. Compiled more pithily then hitherto hath beene published in English. Wherein vsury is most lively vnfolded, defined, and confuted by divines, civilians, canonists, statutes, schoole-men, olde and new writers. ; With an explanation of the statutes now in force concerning vsury, very profitable for this present age..</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1634</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 76 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07558</idno>
+            <idno type="STC">STC 6443.5</idno>
+            <idno type="STC">ESTC S483308</idno>
+            <idno type="EEBO-CITATION">60449162</idno>
+            <idno type="OCLC">ocm 60449162</idno>
+            <idno type="VID">181246</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07558)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 181246)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2183:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The death of vsury, or, The disgrace of vsurers. Compiled more pithily then hitherto hath beene published in English. Wherein vsury is most lively vnfolded, defined, and confuted by divines, civilians, canonists, statutes, schoole-men, olde and new writers. ; With an explanation of the statutes now in force concerning vsury, very profitable for this present age..</title>
+               </titleStmt>
+               <extent>[4], 42 p., 1 folded leaf of plates : ill..  </extent>
+               <publicationStmt>
+                  <publisher>Printed by I.L. for Robert Allott, and are to be sold by Iohn Stafford, dwelling in Black-Horse-Alley neere Fleet-street.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1634..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title vignette, head-piece, tail-piece, initial.</note>
+                  <note>Frontispiece is a folded leaf with captions in French.</note>
+                  <note>Signatures: [A]-F⁴ (first leaf blank?).</note>
+                  <note>Imperfect: stained, with slight loss of text.</note>
+                  <note>Reproduction of original in: Columbia University. Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Usury --  Religious aspects --  Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:181246:1"/>
+            <p>
+               <figure>
+                  <figDesc>allegorical depiction of usury and userers. Note: text boxes has been captured in order: top left, top right, bottom, then the poem along the bottom border</figDesc>
+                  <head>OPERA <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </head>
+                  <lg>
+                     <l>
+                        <unclear>Ie croyois en Estra exc<g ref="char:cmbAbbrStroke">̄</g>pt</unclear>
+                     </l>
+                     <l>
+                        <unclear>Et này pas cruqùun ho<g ref="char:cmbAbbrStroke">̄</g>
+                           <g ref="char:EOLhyphen"/>me de monrang</unclear>
+                     </l>
+                     <l>
+                        <unclear>Eut estè menascè de<g ref="char:EOLhyphen"/>ses tourments.</unclear>
+                     </l>
+                     <l>
+                        <unclear>Apres avoir ètè enſurete<g ref="char:EOLhyphen"/>ſy tongtems.</unclear>
+                     </l>
+                     <l>
+                        <unclear>ſy Democritcel Heracli<g ref="char:EOLhyphen"/>te estorient au jourdhuy</unclear>
+                     </l>
+                     <l>
+                        <unclear>Que tùn pleureroit et làutre rirou des figures que lòn fait icy.</unclear>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Ie rend tout de moy<g ref="char:EOLhyphen"/>mesme</l>
+                     <l>Depeur dý être forcè</l>
+                     <l>Que chacum fasse<g ref="char:EOLhyphen"/>de mesmè</l>
+                     <l>Car ce nèste pas du<g ref="char:EOLhyphen"/>bien amasse</l>
+                     <l>Il ne faui pas me<g ref="char:EOLhyphen"/>mettre a la gesne</l>
+                  </lg>
+                  <p>
+                     <figure>
+                        <head>Chez Gailliard rue de Gesure A'aris</head>
+                        <lg>
+                           <l>Monsieur point de Compliment</l>
+                           <l>rendezvous notre Argent</l>
+                        </lg>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <head>Souffle Souffle</head>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <lg>
+                           <l>Enrozé les faites les</l>
+                           <l>cuire Et les mangera</l>
+                           <l>qui voudra ils sontdure</l>
+                        </lg>
+                     </figure>
+                  </p>
+                  <p>
+                     <figure>
+                        <lg>
+                           <l>Ferme Purgé Purgé</l>
+                           <l>Cést vn gros fermier</l>
+                        </lg>
+                     </figure>
+                  </p>
+                  <lg>
+                     <l>Quel Diable d'Opera</l>
+                     <l>Et quels acteurs sont ce la</l>
+                     <l>Aton jamais declame par la</l>
+                     <l>Pour faire to uttes ces figures la</l>
+                  </lg>
+                  <lg>
+                     <l>Faut estre Soustraitant</l>
+                     <l>Maltotier ou Partisan</l>
+                     <l>Pour avoir dans ce temos</l>
+                     <l>Dans le derriere tant d'Argent</l>
+                  </lg>
+                  <lg>
+                     <l>Fameuse Uzuriere</l>
+                     <l>Que l'on fait tant boire</l>
+                     <l>Esce la Crainte de l'Enfer</l>
+                  </lg>
+                  <lg>
+                     <l>Ou la Question ordinaire</l>
+                     <l>Qui fait couler de votre derriere</l>
+                     <l>Vn inetail qui finy nos miscres.</l>
+                  </lg>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:181246:1" rendition="simple:additions"/>
+            <p>THE DEATH OF VSVRY, OR, THE DISGRACE OF VSVRERS.</p>
+            <p>COMPILED MORE PITHILY THEN HITHERTO HATH beene publiſhed in Engliſh.</p>
+            <p>Wherein <hi>Vſury</hi> is moſt lively vnfolded, defined, and confuted by Divines, Civilians, Canoniſts, Statutes, Schoole-men, old and new Writers.</p>
+            <p>With an Explanation of the Statutes now in force concerning <hi>Vſury,</hi> very profitable for this preſent Age.</p>
+            <q>
+               <bibl>
+                  <hi>Ambroſius in 1. Theſſal. 4. Chap.</hi>
+               </bibl>
+               <p>Hi petunt inferos, vt diſcant verum eſſe in morte quod in vita credere noluerunt.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>I. L.</hi> for <hi>Robert Allott,</hi> and are to be ſold by <hi>Iohn Stafford,</hi> dwelling in Black-Herſe-Alley neere Fleet-ſtreet. 1634.</p>
+         </div>
+         <div type="list_of_authors_cited">
+            <pb facs="tcp:181246:2"/>
+            <pb facs="tcp:181246:2"/>
+            <head>AVTHO<g ref="char:V">Ʋ</g>RS AND Writers vſed in this booke <hi>be<g ref="char:EOLhyphen"/>SIDES THE AVTHORITY of the holy Scriptures.</hi>
+            </head>
+            <list>
+               <head>A</head>
+               <item>S. Auguſtine.</item>
+               <item>S. Ambroſe.</item>
+               <item>T. Aquinas.</item>
+               <item>Aretius.</item>
+               <item>Alphonſus.</item>
+               <item>Ariſtotle.</item>
+            </list>
+            <list>
+               <head>B</head>
+               <item>S. Barnard.</item>
+               <item>S. Baſil.</item>
+               <item>Bullinger.</item>
+               <item>Brentius.</item>
+               <item>Bucer.</item>
+               <item>Theo. Beza.</item>
+               <item>Gabr. Biel.</item>
+               <item>Brunnion.</item>
+               <item>Balaus</item>
+            </list>
+            <list>
+               <head>C</head>
+               <item>S. Chryſoſtome.</item>
+               <item>M. Calvin.</item>
+               <item>Camiſius.</item>
+               <item>
+                  <hi>12.</hi> Centuries.</item>
+               <item>Conſilium Agathenſe.</item>
+               <item>Conſilium Nicen.</item>
+               <item>Conſil. Ma. papa.</item>
+               <item>Coa. de Vſuris.</item>
+               <item>Cato.</item>
+            </list>
+            <list>
+               <head>D</head>
+               <item>Danaeus.</item>
+            </list>
+            <list>
+               <head>E</head>
+               <item>D. Aepinus.</item>
+               <item>Eraſmus.</item>
+            </list>
+            <list>
+               <head>G</head>
+               <item>Gualter.</item>
+               <item>Gerſon.</item>
+               <item>Graftons Chronicle.</item>
+            </list>
+            <list>
+               <head>H</head>
+               <item>S. Hierome.</item>
+               <item>Hemingeus.</item>
+               <item>Hermenopolus.</item>
+               <item>Heſiodus.</item>
+            </list>
+            <list>
+               <head>I</head>
+               <item>B. Iuell.</item>
+               <item>Iulius.</item>
+               <item>Iuſtinius.</item>
+            </list>
+            <list>
+               <head>K</head>
+               <item>D. Kimhus.</item>
+            </list>
+            <list>
+               <head>L</head>
+               <item>Luther.</item>
+               <item>Labother</item>
+               <item>Lactantius.</item>
+            </list>
+            <pb facs="tcp:181246:3"/>
+            <list>
+               <head>M</head>
+               <item>D. P. Martyr.</item>
+               <item>Melancthon</item>
+               <item>Muſculus</item>
+               <item>Menander</item>
+            </list>
+            <list>
+               <head>P</head>
+               <item>Pagne.</item>
+               <item>Pomerianus.</item>
+               <item>Plutarch.</item>
+               <item>Plato.</item>
+            </list>
+            <list>
+               <head>R</head>
+               <item>Rodulphus.</item>
+            </list>
+            <list>
+               <head>S</head>
+               <item>Bart. Sepolitanus.</item>
+               <item>Septuaginta.</item>
+            </list>
+            <list>
+               <head>T</head>
+               <item>Tremellius.</item>
+               <item>Tullius.</item>
+            </list>
+            <list>
+               <head>W</head>
+               <item>theol. Wittenberge.</item>
+               <item>D. Wilſon.</item>
+            </list>
+            <list>
+               <head>Z</head>
+               <item>Zwinglius.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:181246:3"/>
+            <head>
+               <g ref="char:leaf">❧</g> VSVRA.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is ſo called becauſe it doth <hi>Conſtare dere.</hi>
+            </p>
+            <p>The word <hi>Vſura</hi> is taken in two ſenſes or ſignifications:
+<list>
+                  <item>
+                     <hi>properly.</hi>
+                  </item>
+                  <item>
+                     <hi>improperly.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>Properly</hi> it ſignifieth the vſe of a thing, as <hi>Eraſmus</hi> hath well obſerved, that the name of <hi>Vſurie</hi> is taken from <hi>vſing,</hi> and is to be applyed not onely to this but to all other things: the very Etymologie of the worde ſheweth it; the Latines have theſe tearmes, <hi>Vſura Solis, Vſura Lunae, Vſura Terrae, &amp;c.</hi> Hereof <hi>M. Bullinger</hi> ſaid well, The name of <hi>vſurie</hi> is not euill, but the abuſing of it in ap<g ref="char:EOLhyphen"/>plying it to ill trades and actions.</p>
+            <p>
+               <hi>Improperly</hi> the name of <hi>Vſurie</hi> is ſo taken <hi>Cauſa pro effectu</hi> when we take <hi>vſurie</hi> for the increaſe and aug<g ref="char:EOLhyphen"/>mentation that ariſe of it, it is called <hi>vſurae</hi> of the Latiniſtes, becauſe there is received a cer<g ref="char:EOLhyphen"/>taine recompence for the vſe of the mony, the Graecians call it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as it were a certaine thing bred of the principall, the Haebricians call it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of biting.</p>
+            <pb n="2" facs="tcp:181246:4"/>
+            <p>There be three kindes of <hi>Vſuries,</hi>
+               <list>
+                  <item>1. <hi>Foenus naturale.</hi>
+                  </item>
+                  <item>2. <hi>Foenus ſpirituale.</hi>
+                  </item>
+                  <item>3. <hi>Foenus politicum.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. <hi>Foenus naturale,</hi> is that which come and increaſe by til<g ref="char:EOLhyphen"/>lage of the ground. This <hi>vſurie</hi> is lawfull, becauſe it is the or<g ref="char:EOLhyphen"/>dinance of God in the beginning. <hi>Cain</hi> is called a tiller of the ground, many of our fore-fathers haue growen rich by this <hi>v<g ref="char:EOLhyphen"/>ſurie</hi> as <hi>Abraham, Lot,</hi> and others. It is ſo neceſſarie that no common wealth can ſtand without it; <hi>Menander</hi> doeth call the <hi>land-iuſt,</hi> becauſe in yeelding fruit it doeth the dutie of a good ground and therefore we were vniuſt if we ſhoulde not reape it.</p>
+            <p n="2">2. <hi>Foenus ſpirituale,</hi> whereof be two ſortes,
+<list>
+                  <item>1. <hi>Giving of Almes.</hi>
+                  </item>
+                  <item>2. <hi>Imploying of Gods gifts.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>Giving of Almes,</hi> is generally commended in the Scriptures, and he that giveth is as it were <hi>foenerator Domini</hi> and ſhall be well rewarded: for <hi>Salomon</hi> ſaith, he that giveth to the poore ſhall not lacke.</p>
+            <p>The imploying of the giftes and graces of God doeth yeeld in the ende a ſpirituall increaſe, and that is meant by the Talent in Matthew.</p>
+            <p n="3">3. <hi>Foenus politicum,</hi> wherof there be alſo two ſorts,
+<list>
+                  <item>
+                     <hi>Foenus actuale.</hi>
+                  </item>
+                  <item>
+                     <hi>Foenus mentale.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>Foenus actuale,</hi> is committed when one doth any act for gaine or increaſe, wherof there be two kinds
+<list>
+                  <item>
+                     <hi>Foenus liberale.</hi>
+                  </item>
+                  <item>
+                     <hi>Foenus ex pacto.</hi>
+                  </item>
+               </list>
+            </p>
+            <pb n="3" facs="tcp:181246:4"/>
+            <p>
+               <hi>Foenus liberale,</hi> is, when he that borroweth, deſireth to make ſome recompence, the ſame which is received above the princi<g ref="char:EOLhyphen"/>pall is <hi>Vſurie,</hi> and is not to be condemned in two reſpectes. 1. becauſe it is a duty of thankfulneſſe to make amends for a bene<g ref="char:EOLhyphen"/>fit received. <hi>Tully</hi> could ſay, <hi>Ingratus eſt qui gratia<g ref="char:cmbAbbrStroke">̄</g> bene merenti no<g ref="char:cmbAbbrStroke">̄</g> reponit:</hi> the Scriptures in many places condemne vnthankful<g ref="char:EOLhyphen"/>neſſe. 2. becauſe it proceedeth of the givers free-will: <hi>&amp; vo<g ref="char:EOLhyphen"/>lenti non fit iniuria,</hi> ſaith <hi>Tho. Aquinas:</hi> for what is more free then gift.</p>
+            <p>
+               <hi>Foenus ex pacto,</hi> whereof there be two ſorts
+<list>
+                  <item>
+                     <hi>vſura explicata.</hi>
+                  </item>
+                  <item>
+                     <hi>vſura palliata.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>Vſura explicata,</hi> is ſuch as it is indeede as when one doeth covenant to take 10. in the hundreth for a yere.</p>
+            <p>
+               <hi>Vſura palliata,</hi> is a cloſe and cloked <hi>vſurie,</hi> as when one len<g ref="char:EOLhyphen"/>deth money and ſhroudeth it vnder ſome other bargaine.</p>
+            <p>
+               <hi>Foenus mentale</hi> is when one lendeth and doth not compact but hopeth for increaſe or gaine. Sole hope maketh a man an <hi>vſurer</hi> ſaith one of the Canoniſtes; he that lendeth (ſaith <hi>Ca<g ref="char:EOLhyphen"/>miſius</hi>) vnder the hope of gaine is an <hi>Vſurer: S. Augustine</hi> vpon one of the Pſalmes ſaith, <hi>If thou doeſt but expect to reciue more then thy owne thou art an Vſurer.</hi>
+            </p>
+            <div type="part">
+               <head>VVhat <g ref="char:V">Ʋ</g>ſurie is.</head>
+               <p>THe civill Lawes in the <hi>Code de Vſuris</hi> doe call that <hi>Vſury</hi> which is received above the principall.</p>
+               <p>
+                  <hi>Aretius</hi> ſaith, whatſoever is taken above the principall is <hi>Vſurie.</hi>
+               </p>
+               <p>
+                  <hi>Rodulphus</hi> ſaieth whatſoever in lending is taken above the
+<pb n="4" facs="tcp:181246:5"/>principall is <hi>vſurie.</hi>
+               </p>
+               <p>
+                  <hi>D. Kimhus</hi> writing vpon the 18. of Ezek. doth ſay that <hi>vſury</hi> is expreſſed by this addition of the prophet, <hi>and receive no in<g ref="char:EOLhyphen"/>creaſe.</hi> This definition may ſtand ſo farre forth as it doth not condemne <hi>foenus liberale</hi> or <hi>gratuitum.</hi>
+               </p>
+               <p>In the Decrees <hi>cap. vſur.</hi> 14 <hi>cauſ. &amp;</hi> 3. <hi>quaeſt.</hi> that is <hi>Vſurie</hi> when more is required then was delivered or given.</p>
+               <p>
+                  <hi>Melancthon</hi> ſaith, <hi>vſurie</hi> is a gaine demaunded aboue the principall only for the pleaſure or benefit ſhewed in lending.</p>
+               <p>
+                  <hi>Conſilium Agathenſe</hi> ſay, when there is more required then is lent, that is <hi>vſurie.</hi>
+               </p>
+               <p>This definition differ from the former, here gaine is required, there but offered or taken. And this definition doth cut off <hi>In<g ref="char:EOLhyphen"/>terest,</hi> which <hi>Melancthon</hi> ſaith is a debt one owe to another by the law of nature, &amp; it is due by the opinion of <hi>Hemingeus</hi> two manner of waies: 1. <hi>ex damno habito,</hi> 2. <hi>ex lucro ceſſante.</hi>
+               </p>
+               <p>
+                  <hi>Ex damno habito,</hi> as when I borrow money for another and enter my bond for it, and take the like of him that receiue the mony. I may lawfully recover that I looſe by the meanes of that mony. <hi>Biſhop Iuel</hi> is of this mind alſo.</p>
+               <p>
+                  <hi>Ex lucro ceſſante,</hi> as if a ſhop-keeper lend mony freely to his neighbour till ſuch a day, having then occaſion to vſe it at ſome faire to lay it out in wares, if he breake touch the ſhop keeper may lawfully take ſo much as he ſuſtained loſſe for want of his money to lay out.</p>
+               <p>
+                  <hi>Brentius</hi> ſaith, when men require a gaine of the office of len<g ref="char:EOLhyphen"/>ding it is <hi>Vſurie.</hi> This definition is imperfect: for <hi>Hemingeus</hi> gives an inſtance, If I lend a marchant 100. pound vnder theſe conditions; if he gaine, I will have the moiety of the gaines: if he looſe, if it be not <hi>ex culpa larga,</hi> I am content to beare halfe the loſſe: here is gaine required of office but this contract is not offenſive.</p>
+               <pb n="5" facs="tcp:181246:5"/>
+               <p>The Divines of <hi>Wittenberge</hi> ſay, when a man require but an halfe penny or a droppe of water for the money he lendeth it is <hi>vſurie.</hi>
+               </p>
+               <p>
+                  <hi>S. Ambroſe</hi> ſaith, that a diſh of meate, a garment, or whatſoe<g ref="char:EOLhyphen"/>ver commeth aboue the principall is <hi>vſurie.</hi>
+               </p>
+               <p>From the opinions and iudgements of moſt writers <hi>Actuall vſurie</hi> is thus defined.</p>
+               <p>
+                  <hi>It is a lending for gaine by compact.</hi>
+               </p>
+               <p>So that there doth concurre neceſſarily 3. things in this kinde of deſcribed <hi>vſurie.</hi>
+               </p>
+               <p>There muſt be
+<list>
+                     <item>
+                        <hi>a lending.</hi>
+                     </item>
+                     <item>
+                        <hi>a lending for gaine.</hi>
+                     </item>
+                     <item>
+                        <hi>a compacting for gaine.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>That the truth of this may pregnantly appeare, every ſeverall point muſt of neceſsitie be prooved.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>1.</hi> 
+                  <g ref="char:V">Ʋ</g>ſurie is a lending.</head>
+               <p>THat <hi>Vſurie</hi> is in lending it appeareth in the 22. of Exod. <hi>If thou lend mony to my people, &amp;c.</hi> and in Deut. 23. <hi>vnto a ſtranger thou maiſt lend vpon vſurie. Bullinger</hi> intrea<g ref="char:EOLhyphen"/>ting of this argument ſaith, that <hi>vſurie</hi> is committed only in len<g ref="char:EOLunhyphen"/>ding. <hi>Brentius</hi> vpon Lev. 25. ſaith as much. <hi>D. Wilſon</hi> ſaith, there can be no <hi>Vſury</hi> where there is no Lending. I had thought to haue alledged that ſaying in the 6. of Luke, <hi>Lend looking for no<g ref="char:EOLhyphen"/>thing againe:</hi> but that <hi>M. Bucer</hi> and <hi>M. Calvin</hi> ſay it is not meant of <hi>vſurie</hi> at all.</p>
+            </div>
+            <div type="part">
+               <head>What Lending is.</head>
+               <p>
+                  <hi>HEmingeus</hi> in his treatiſe vpon <hi>vſury</hi> defineth lending thus. <hi>Mutatio eſt contractus, &amp;c. Lending</hi> is a contract which transfer the right &amp; dominio<g ref="char:cmbAbbrStroke">̄</g> of a thing to another without <hi>in<g ref="char:EOLhyphen"/>terpoſito praetio,</hi> but with promiſe to have the ſame thing delive<g ref="char:EOLhyphen"/>red
+<pb n="6" facs="tcp:181246:6"/>in <hi>ſpecie.</hi> As if I end a ma<g ref="char:cmbAbbrStroke">̄</g> 100. pound for a yere, I do not on<g ref="char:EOLhyphen"/>ly yeeld the uſe but the propertie of it, only to haue that I lend in the ſame kind without gaine, or if I lend oyle or wine or any thing ſubiect to lending (which be ſuch things as conſiſt in <hi>Waight, Nomber,</hi> and <hi>Meaſure</hi>) I muſt obſerve the like courſe; yet <hi>Heſiodus</hi> ſpeaking hereof willeth the borrower to deliver iuſt meaſure <hi>&amp; amplius ſiquidem poſsis</hi> that he may finde his neighbour ready to pleaſure him againe <hi>ſi alias indigeas,</hi> or as <hi>Heming.</hi> ſaith, <hi>pertinebit ad gratitudinem.</hi> The Latines make a difference betweene <hi>Mutatio</hi> and <hi>Accommodatio,</hi> when any doth <hi>mutuum dare</hi> he lookes but for his owne in <hi>eadem specie,</hi> but when he doth <hi>Accommodare</hi> he lookes to receive it in <hi>indi<g ref="char:EOLhyphen"/>viduo,</hi> as if he lends his horſe to haue the ſame againe and not an other, or if he lets his houſe, to haue the ſame, and none other.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>2.</hi> 
+                  <g ref="char:V">Ʋ</g>ſurie is a lending for gaine.</head>
+               <p>THat <hi>vſury</hi> is a lending for <hi>Gaine</hi> it appeareth by the pro<g ref="char:EOLhyphen"/>phets repetition: <hi>Thou hast taken vſurie &amp; the increaſe,</hi> Ezek. 22.12. this worde <hi>increaſe,</hi> is as much as gaine? as when a man lendeth 10. pound &amp; take 11. pound: or 20 combs barley and take 22. for a yere, he hath not <hi>incrementum ex vſu. S. Ambroſe</hi> commends him to be a good man that doth lend and take no increaſe. <hi>Nehemiah</hi> did lend corne, and mony to his brethren without looking for gaine.</p>
+            </div>
+            <div type="part">
+               <head>What it is to lend for gaine.</head>
+               <p>
+                  <hi>GAbriel Biel</hi> ſaith, that gaine is the increaſe of mony, or the value of any thing that may be prized and meaſured for
+<pb n="7" facs="tcp:181246:6"/>money. Whoſoeuer lendeth his money, corne, wine, oyle, and receiue any thing for the vſe of it, is an <hi>Vſurer.</hi> S. <hi>Ambroſe</hi> and <hi>Hierome</hi> ſay there are many that will not take money, but cer<g ref="char:EOLhyphen"/>taine other gifts, this is <hi>Vſurie:</hi> whatſoeuer it be they receiue more then they lend, it is <hi>Vſurie, Muſc.</hi> 579. Moſt writers con<g ref="char:EOLhyphen"/>demne him which take money or monies worth for lending. <hi>Hemingeus</hi> giueth ſome inſtances; one man borrowes a hun<g ref="char:EOLhyphen"/>dreth pounds and offereth vſe for it, the lender refuſe to take it, but tels him if he will beſtow a gowne-cloth of his wife, or the paſturing of a horſe, or ſome of <hi>S. Austens</hi> workes, or ſuch like, he will let him haue his money, this is <hi>Vſurie</hi> though it be cloaked.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>3.</hi> Vſurie is a lending for gaine by Compact.</head>
+               <p>THat there is a compacting for <hi>Gayne,</hi> it appeareth Exod. 22. the Lord ſaith, <hi>Non impone vſuram, &amp;c.</hi> thou ſhalt not impoſe <hi>vſurie</hi> vpon thy brother, by which appeare to be a kinde of compact. <hi>M. Beza</hi> tearmes him to be <hi>foenera<g ref="char:EOLhyphen"/>tor pacti,</hi> which take or exact any thing by lending, hereof the Statute made in anno 11. Henr. 7. chap. 8. did forbid <hi>vſurie</hi> of contract or couenant.</p>
+            </div>
+            <div type="part">
+               <head>VVhat it is to Compact.</head>
+               <p>THe <hi>Civilians</hi> tearme that a <hi>Compact,</hi> when as two men or
+<pb n="8" facs="tcp:181246:7"/>moe, doe conferre and conſent together of a matter.</p>
+               <p>The Lawyers ſay there are two kinde of <hi>Compacts:</hi>
+                  <list>
+                     <item>
+                        <hi>Pactum tacitum.</hi>
+                     </item>
+                     <item>
+                        <hi>Pactu<g ref="char:cmbAbbrStroke">̄</g> expreſſum.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>
+                  <hi>Pactum tacitum</hi> is this, when as conſent or agreement is in<g ref="char:EOLhyphen"/>tended; an inſtance hereof appeares in Numb. 30. as when the parents of two children doe debate of a mariage betweene their children, the children ſtand by and heare all, but ſay nothing, by ſilence in the children <hi>intenditur conſenſus.</hi> Silence is many times to be taken as an anſwer betweene the <hi>Vſurer</hi> and the bo<g ref="char:EOLhyphen"/>rower: as for example, if a man comes to an <hi>Vſurer</hi> to borrowe money, and tels him he will allow him after ten in the 100. al<g ref="char:EOLhyphen"/>though the <hi>vſurer</hi> ſaith nothing, this is a kinde of compact: or if one comes to borrowe money, and the <hi>vſurer</hi> ſaith he will take after ten in the 100, albeit the borrower ſaith nothing, but takes the money, it is a kinde of <hi>Compact:</hi> and it is ſo vſuall, that M. <hi>Bucer</hi> ſaith, he is counted an impudent man that doth not offer <hi>vſurie.</hi>
+               </p>
+               <p>
+                  <hi>Pactum expreſſum</hi> is either
+<list>
+                     <item>
+                        <hi>Nudum.</hi>
+                     </item>
+                     <item>
+                        <hi>Veſtitum.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>
+                  <hi>Nudum,</hi> the bare compact is, when one comes to borrowe money, the <hi>vſurer</hi> asketh him if he will giue vſe for it, the bor<g ref="char:EOLhyphen"/>rower ſaith he will, this is ſo called, becauſe the <hi>vſurer</hi> depends vpon the borrower what he will giue.</p>
+               <p>
+                  <hi>Veſtitum,</hi> the certen or ſhrou<g ref="char:EOLhyphen"/>ded compact, is either in
+<list>
+                     <item>
+                        <hi>Verbis.</hi>
+                     </item>
+                     <item>
+                        <hi>Scriptis.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>In <hi>verbis,</hi> when the borrower paſſeth his promiſe for the payment of vſe.</p>
+               <pb n="9" facs="tcp:181246:7"/>
+               <p>In <hi>ſcriptis,</hi> when the <hi>vſurer</hi> takes ſpecialty for the vſe of his money.</p>
+            </div>
+            <div type="part">
+               <head>How farre Vſurie extendeth.</head>
+               <p>
+                  <hi>VSurie</hi> is not onely cloked, but alſo committed as well in many other things as in money, and therefore the Lorde doth not onely condemne <hi>vſurie</hi> of money, but alſo <hi>vſu<g ref="char:EOLhyphen"/>rie</hi> of meate, <hi>vſurie</hi> of any thing is put to <hi>vſurie, Deut.</hi> 23.19.</p>
+               <p>
+                  <hi>S. Hierome</hi> ſaith, ſome ſuppoſe there is no <hi>vſurie</hi> but in mo<g ref="char:EOLhyphen"/>ney. This did the holy Scriptures foreſee, which take away in<g ref="char:EOLhyphen"/>creaſe in all other things. <hi>M. Bullinger</hi> ſaith, that <hi>vſurie</hi> is com<g ref="char:EOLhyphen"/>mitted in the vſe of cattell, houſe and ground.</p>
+               <p>
+                  <hi>Hemingeus</hi> ſaith, that <hi>vſurie</hi> is committed in lending of all things, and doth hide it ſelfe vnder diuers kind of contracts, as buying, ſelling, lending, letting, exchanging, giuing to paune, &amp;c.</p>
+               <p>By the opinion of the <hi>Schoolemen, vſurie</hi> is taken ſo largely that it comprehendeth buying and ſelling.</p>
+               <p>
+                  <hi>M. Calvin</hi> ſaith, <hi>Multi contractus ab hominibus vafris excogitati ſunt, quibus inopes expilarent, ſine ignominia vel dedecore, atque hodie nulla crudelior eſtir apacitas quàm vbi ab ſ<g ref="char:EOLhyphen"/>que mentione foenoris vectigal debitoribns imponitur. Calvin. in Harmo.</hi>
+               </p>
+               <p>So that this generally toucheth Merchants, Shop-keepers, Corne-mongers, and all others that haue any trading and traf<g ref="char:EOLhyphen"/>fique in the common-weale. Yet we muſt take heede that we doe not condemne all profitable and lawfull contracts, as <hi>He<g ref="char:EOLhyphen"/>mingeus</hi> ſaith, <hi>praetextu vſurae propter ſimilitudinem:</hi> for that in no wiſe is iuſt; no contract is to be condemned <hi>qui charitati proximi non aduerſatur.</hi>
+               </p>
+               <p>Sithence <hi>vſurie</hi> is committed in ſo many things, it weare ne<g ref="char:EOLhyphen"/>ceſſarie to knowe ſome of the greateſt <hi>vſuries</hi> that the worſe might haue his appearance.</p>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:181246:8"/>
+               <head>
+                  <g ref="char:V">Ʋ</g>
+                  <g ref="char:V">Ʋ</g>hich is the greateſt <g ref="char:V">Ʋ</g>ſurie.</head>
+               <p>IF our <hi>Vſurie</hi> in money were all one with that of the <hi>Iewes,</hi> the queſtion were ſoone anſwered: for they tooke after 60.70.80. in the 100. It appeares in <hi>Graftons</hi> Chronicle that a<g ref="char:EOLhyphen"/>bout the yeere of our Lord 1264. and in the 47. yeere of the raigne of <hi>Henry</hi> the 3. King of England, fiue hundreth <hi>Iewes</hi> were ſlaine by the Citizens of London, becauſe one Iewe would haue forced a Chriſtian man to pay more then two pence for the <hi>vſurie</hi> of twentie ſhillings the weeke: as for our <hi>vſurie</hi> in money after the rate of 10. in the 100. it comes not to an halfe-penny a weeke for twentie ſhillings: and therefore I take it to be the leaſt <hi>vſurie</hi> that is vſed this day in the land.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>1.</hi> Wares and Marchandize.</head>
+               <p>HE that puts forth money dare not exceede the rate of 10. in the 100. but he that vttereth ware doth make his rate to his owne contentment. In money they reſt vpon the conſcience of the borrower what he will beſtow (for our laws allow nothing for vſe:) In ware they vſe their owne diſcreti<g ref="char:EOLhyphen"/>ons in taking what they can get.</p>
+               <p>In money there may not be taken after 10. in the hundred, but within the time without trebble loſſe in ware they care not
+<pb n="11" facs="tcp:181246:8"/>what they gaine, nor howe ſoone they make ſale, ſo they may take money.</p>
+               <p>In money, the allowance is ſeene and knowne to others after 10. in the 100. In wares, the gaynes that are got be ſecret and concealed to them ſelues. One will not let to boaſt he hath ſaued aboue 30. in the 100. when the other durſt not ſay he hath ta<g ref="char:EOLhyphen"/>ken aboue 10. in the 100. for money.</p>
+               <p>It is ordinarie with occupyers to proportion the price of their wares according to the time of payment as well as <hi>vſu<g ref="char:EOLhyphen"/>rers.</hi>
+               </p>
+               <p>Many occupyers will often vſe theſe ſhifts whereof they haue no vſe in money.</p>
+               <p>They will mixe their wares if they be ill with better, if good with worſe, and ſo by chopping both away togither deceiue the buyer.</p>
+               <p>They will giue bad meaſure, and vſe falſe waights, whereof the Prophet <hi>Micah</hi> complaineth, Are yet the treaſures of wic<g ref="char:EOLhyphen"/>kednes in the houſe of the wicked and the ſcant meaſure that is abhominable, ſhall I iuſtifie the wicked ballances and the bagge of deceitfull waights, <hi>Micah</hi> 6.10, 11.</p>
+               <p>To ſet a fayre gloſſe for gayne of their counterfeit ware, they will vſe <hi>Lying</hi> and <hi>Swearing,</hi> they are ſo carried with the ſa<g ref="char:EOLhyphen"/>uour of gayne, that they make no conſcience of a lye, but as the Prophet ſaith, <hi>They haue taught their mouthes to lye. Ier.</hi> 9.5. and that they may be the better beleeued when they lye, they will vſe ſwearing; for cuſtome hath made it ſo common that they thinke periurie no impietie but worldly pollicie, and ther<g ref="char:EOLhyphen"/>fore it is true the ſame Prophet ſaith, <hi>As a cage is full of birds, ſo are there houſes full of deceit, thereby they are become great and waxen rich,</hi> Ier. 5.27.</p>
+            </div>
+            <div type="part">
+               <pb n="12" facs="tcp:181246:9"/>
+               <head>
+                  <hi>2.</hi> Corne or Grayne.</head>
+               <p>HE that puts out an 100. pound for a yeere, may not take aboue 10. pound for the lone, albeit the borrower may peraduenture gayne aboue 30. or 40. pound with the money, but he that laieth out 100. pound in <hi>Corne</hi> doth ſome<g ref="char:EOLhyphen"/>time gaine aboue 50. yea ſometime 100. in the 100. for not long ſince the price of Corne ſo increaſed, that neceſsitie willed many rather to pay the penaltie of their bonds, then to make deliuerie of their bargains; hereupon ſome vnreaſonable Corn-mongers, Malſtars, and ſuch like were grieued becauſe they tooke no bils, as diſcontent of double gaines by their bonds.</p>
+               <p>It is a common practiſe in this countrey, if a poore man come to borrow money of a Malſter, he wil not lend any, but tels him if he will ſell ſome barley he will giue him after the order of fore-hand buyers, the man beeing driuen to diſtreſſe, ſels his corne farre vnder foote, that when it comes to be deliuered he looſeth halfe in halfe, oftentimes double the value.</p>
+               <p>I haue heard many of theſe fore-hand ſellers ſay, that they had rather allowe after 20. pound in the 100. for money, then to ſell theſe fore-hand bargaines of corne.</p>
+               <p>Theſe are moſt extreame <hi>Vſuries,</hi> and they haue no colour to excuſe it, but a reaſon of <hi>Gabriell Byel:</hi> for that the price of Corne is caſuall in riſing and falling: this is ſoone anſwered, howſoeuer it may ſeeme caſuall at the buying, the commoditie being deliuered, it is certen at the receipt, and therefore this can be no excuſe to warrant exceſsiue gayne.</p>
+            </div>
+            <div type="part">
+               <pb n="13" facs="tcp:181246:9"/>
+               <head>Malſters and Cornemongers may vſe more deceit then Mony-maſters.</head>
+               <p>IF money be not put forth there come no increaſe by keeping of it, that appeares in the idle ſeruant by the Talent, but they cannot be content to make preſent ſale of their corne for a reaſonable price, but many doe hoard and keepe their corne of purpoſe to inhaunce the price, and ſo oppreſſe the poore, as the Prophet (ſpeaking in their perſon) ſaith, <hi>That we may buy the poore for ſiluer, and the needie for ſhoes,</hi> Amos 8.8. and by kee<g ref="char:EOLhyphen"/>ping of it they doe not onely raiſe the price, but impaire the corne, making it vnſauorie at the ſale: therefore in the ſame place it followes, <hi>Yea and ſell the refuſe of wheate.</hi>
+               </p>
+               <p>In money they cannot be deceiued of their iuſt ſome, if they haue their ſight, but in Corne they will abridge the meaſure many waies by deceit, when one leaſt ſuſpects, or can beſt ſee, which the Prophet well perceiued: for he ſaith that <hi>they make the Ephah ſmall, and the ſhekell great, and falſifie the waights by deceit,</hi> Amos 8.5.</p>
+               <p>In money they may not exceede the rate of 10. in the 100. In corne they gaine by buying, and by giuing day in the ſale to o<g ref="char:EOLhyphen"/>thers they will gayne by the time.</p>
+               <p>
+                  <hi>Aristotle</hi> ſaith well, <hi>foenus est quaſi foetus:</hi> for I take this to be one of the moſt extreame <hi>Vſuries</hi> in the land. Therefore M. <hi>Calvin</hi> ſaith, <hi>Vſura nihilo deterior erit quam emptio. in</hi> 8. <hi>praec.</hi> 375.</p>
+            </div>
+            <div type="part">
+               <pb n="14" facs="tcp:181246:10"/>
+               <head>
+                  <hi>3.</hi> Lands and Tenements.</head>
+               <p>THere are ſome that hire houſe and lande after 20. pound the yeare, and are good gayners by it, and yet they let the ſame to others and make after 60. pound the yeare, this caſe is too common.</p>
+               <p>I haue knowne others that haue laid out ſome 800. pound in purchaſe, and in leſſe ſpace then a yeere haue ſold the ſame again for 1100. to another and readie payment.</p>
+               <p>I note theſe but by the way, but indeede if we would knowe the reaſon why Corne, Cattell, and ſuch other commodities are ſo deare at this day, more then in other times before paſſed, we ſhall finde this to be the cauſe; the racking and vnreaſonable rents of houſe and lande: for it is nowe come to this paſſe, that Farmars can not afford their commodities at indifferent prizes, for if they ſhould, their extreame rents would inforce them to runne away.</p>
+               <p>The Rents of houſe and land are almoſt come to the rates of money, which is very vnreaſonable if but in this reſpect, becauſe Landes are immooueable and certen, but money is ſubiect to many caſualties and aduentures, as ſhall appeare vpon the hand<g ref="char:EOLhyphen"/>ling hereafter of the <hi>Statute</hi> 13. <hi>Elizabeth.</hi>
+               </p>
+               <p>To ſpeake generally of all kinds of <hi>vſurie</hi> were too tedious, but theſe may giue a light to the reſt, notwithſtanding this is to be noted as an vniuerſall obſeruation, that he which hath but 100. pound, and puts it forth, ſhall hardly maintaine his family with the lone of 10. pound, &amp; yet many an one maintaineth him
+<pb n="15" facs="tcp:181246:10"/>ſelfe and his charge with leſſe then 40. pound by imploying the ſame in trading and traffique in other things.</p>
+               <p>If the Lord will not permit any Vſury in money, much leſſe will he ſuffer others in their ſeverall callings to exact vn<g ref="char:EOLhyphen"/>reſonable gaine: for he doth not onely forbid one but the o<g ref="char:EOLhyphen"/>ther. Deut. 23.</p>
+            </div>
+            <div type="part">
+               <head>How and in what ſort <g ref="char:V">Ʋ</g>ſurie is condem<g ref="char:EOLhyphen"/>ned <hi>by the word of God.</hi>
+               </head>
+               <p>THere be many places of proofe for this purpoſe, ſome whereof follow.
+<list>
+                     <item>Exodus. 22.</item>
+                     <item>Levitic. 25.</item>
+                     <item>Deuter. 23.</item>
+                  </list> and
+<list>
+                     <item>Pſalm. 15.</item>
+                     <item>Prov. 28.</item>
+                     <item>Ezek. 18. &amp; 22.</item>
+                  </list> Some adde theſe
+<list>
+                     <item>Pſal. 55.</item>
+                     <item>Pſal. 72</item>
+                  </list>
+               </p>
+               <p>The whole Law is divided into three parts
+<list>
+                     <item>
+                        <hi>Morall.</hi>
+                     </item>
+                     <item>
+                        <hi>Iudiciall.</hi>
+                     </item>
+                     <item>
+                        <hi>Ceremoniall.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>It is much diſputable among writers which of theſe three ſhould apprehend <hi>Vſurie;</hi> it were in vaine here to expreſſe their variable opinions: but I will briefly deliver the iudgeme<g ref="char:cmbAbbrStroke">̄</g>ts of the learneder ſort.</p>
+               <p>The matter of <hi>vſurie</hi> is Politicall or Iudiciall.</p>
+               <p>So ſay
+<list>
+                     <item>
+                        <hi>M. Calvin in</hi>
+                        <list>
+                           <item>
+                              <hi>Octav. praeceptum.</hi> 375.</item>
+                           <item>
+                              <hi>Harmon. in Exod. Levit. &amp;c.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>Philip. Melancthon in Epitom. Philoſophiae moralis.</hi>
+                     </item>
+                     <item>
+                        <hi>Danaeus Aethic. ſuper praecep. octav.</hi> and many others.</item>
+                  </list>
+               </p>
+               <pb n="16" facs="tcp:181246:11"/>
+               <p>That we are not tyed to the Iewes <hi>Policies</hi> or <hi>Iudicial</hi> lawes,</p>
+               <p>Appeares by
+<list>
+                     <item>
+                        <hi>M Calvin. in Institut. lib.</hi> 4. <hi>cap.</hi> 20. <hi>ſect.</hi> 15.16.</item>
+                     <item>
+                        <hi>D. Pet. Martyr. ſup.</hi> 1. <hi>lib. Samu. cap.</hi> 25. <hi>ſect.</hi> 42.</item>
+                     <item>
+                        <hi>M. Beza. in decima Epiſtola,</hi> and many others.</item>
+                  </list>
+               </p>
+               <p>So that from hence is to be obſerved, that the approbation, diſprobation, tolleration, and moderation of <hi>Vſurie,</hi> depend vpon the Magiſtrate. Hereof ſaieth <hi>M. Calvin,</hi> The <hi>Vſurer</hi> muſt take heede that he exceede not that rate of the Countrey where he liveth. <hi>Bullinger</hi> ſaith, The Magiſtrate muſt keepe the <hi>Vſurer</hi> in with good lawes. <hi>Labother</hi> is of that opinion. <hi>Zwinglius de dupl. Iuſtic.</hi> ſaith, I thinke of <hi>Vſurie</hi> thus, when the lawes of a Magiſtrate doe permit it, it may be vſed, but if the Magiſtrate forbid it, it muſt of all ſortes be obeyed. <hi>Heminge<g ref="char:EOLhyphen"/>us</hi> is of that mind.</p>
+            </div>
+            <div type="part">
+               <head>Lawes made aginst <g ref="char:V">Ʋ</g>ſurie.</head>
+               <p>THe Emperour <hi>Leo</hi> did make a Law againſt <hi>vſurie</hi> that whatſoever any man did take, ſhoulde be received into the principall. <hi>Hermenopol. lib.</hi> 3. <hi>tit.</hi> 7.</p>
+               <p>Pope <hi>Martin</hi> in the counſell he called did forbid <hi>Vſury,</hi> and <hi>centeſimam vſuram,</hi> and that gaine which was got by any fil<g ref="char:EOLhyphen"/>thy trade. <hi>Ex concil. Ma. Papa.</hi>
+               </p>
+               <p>Pope <hi>Leo</hi> did likewiſe forbid the ſame as ſorry any Chriſti<g ref="char:EOLhyphen"/>an man ſhould be an <hi>vſurer.</hi>
+               </p>
+               <pb n="17" facs="tcp:181246:11"/>
+               <p>In the <hi>Synod</hi> of <hi>Nicen,</hi> wherein were aſſembled three hun<g ref="char:EOLhyphen"/>dred and eighteene fathers, in a Canon they made did con<g ref="char:EOLhyphen"/>demne all <hi>vſurie.</hi> in Decret. 47.</p>
+               <p>There were many decrees to forbid <hi>vſurie</hi> in the Clargie.</p>
+               <p>If he did put out money to <hi>vſurie</hi> he ſhould be none of the Clargie. 33. <hi>d. Martis d.</hi> 46. <hi>ſeditio.</hi>
+               </p>
+               <p>If he tooke 12. in the 100. more or leſſe he ſhould be degra<g ref="char:EOLhyphen"/>ded and made irreguler. <hi>Concil. Nicen.</hi> 18.</p>
+               <p>There were Canons made for the Laiety, being an <hi>vſurer</hi> he was
+<list>
+                     <item>ſuſpended from the Communion.</item>
+                     <item>exco<g ref="char:cmbAbbrStroke">̄</g>municated out of the church.</item>
+                     <item>not capable to make a will of his goods.</item>
+                     <item>not to be admitted to Chriſtian buriall.</item>
+                  </list>
+               </p>
+               <p>Yea, the Canon Lawe ſaith, No man need to care what be<g ref="char:EOLhyphen"/>come of an <hi>vſurer.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Lawes made to moderate <g ref="char:V">Ʋ</g>ſurie.</head>
+               <p>
+                  <hi>SOlon</hi> made a law among the <hi>Athenians</hi> and he did allowe <hi>de centum aureis ſingulis menſibus aureus vnus. Heming.</hi>
+               </p>
+               <p>The Romane Emperour <hi>Iuſtinius</hi> ordeined a law in his time for the tollerating of 4.6.8.12. in the 100. according to the degrees of men. <hi>Heming.</hi>
+               </p>
+               <p>
+                  <hi>Tully</hi> maketh mention in his time of another Lawe, how at the firſt there was graunted 1. in the 100. afterward 4. in the 100.</p>
+               <p>The Civill lawes in the <hi>Code de vſuris</hi> doe permit the hun<g ref="char:EOLhyphen"/>dred and halfe hundred part.</p>
+               <p>By the law of <hi>Pandect</hi> and <hi>Constantine, Vſury</hi> is tollerated in ſome ſort.</p>
+            </div>
+            <div type="statutes_and_laws">
+               <pb n="18" facs="tcp:181246:12"/>
+               <head>Statutes and Lawes made by Kings and <hi>Governours within this land concerning</hi> Vſurie.</head>
+               <p>IN and before the Raine of King <hi>Henry</hi> 3. the Lawes for Vſury did conſiſt in the holy Canons of the Church and were puniſhable by them. I read of <hi>Iuſtinius</hi> the Emperour how in his Conſtitution he did ordaine that the holy Canons of the Church ſhould haue power and authoritie againſt the Lawes of Vſury.</p>
+               <p>Theſe Lawes being ſo ſtraight and generall, the ſaide King <hi>Henry</hi> in the 20. yeere of his raigne cap. 5. did make this <hi>pro<g ref="char:EOLhyphen"/>viſo</hi> for the benefit of Orphans only.</p>
+               <p>
+                  <hi>IT is provided and granted by the King that from henceforth vſuries ſhall not turne againſt any being within age from the time of the death of his Aunceſtour (whoſe heire he is) vnto his lawfull age. So nevertheleſſe that the payment of the princi<g ref="char:EOLhyphen"/>pall debt with the vſurie that was before the death of his aunce<g ref="char:EOLhyphen"/>stour (whoſe heire he is) ſhall not remaine.</hi>
+               </p>
+               <p>
+                  <hi>Muſculus</hi> ſaith, that our predeceſſours vſed the order of pu<g ref="char:EOLhyphen"/>pils and orphans before the peſtilent plague of Vſurie had pro<g ref="char:EOLhyphen"/>phaned and defiled the Church, and were contented to permit that in them, and in none elſe.</p>
+               <p>It appeareth by this braunch that all Vſury is condemned ſave in orphans.</p>
+            </div>
+            <div type="law">
+               <pb n="19" facs="tcp:181246:12"/>
+               <head>14. <hi>Edward.</hi> 3. <hi>Chap.</hi> 5.</head>
+               <p>
+                  <hi>KIng Edward made this Lawe.</hi> The King and his heires ſhall have the Conuſance of Vſurers dead, and the ordi<g ref="char:EOLhyphen"/>naries of holy Church ſhall have the Conuſance of vſurers on liefe as to them appertaineth to make compulſion by the Cen<g ref="char:EOLhyphen"/>ſures of the holy Church for the ſinne to make reſtitution of the vſuries taken against the lawes of holy Church.</p>
+               <p>
+                  <hi>This is the firſt law at large that I can finde for</hi> Vſurie <hi>in the Statutes ſince</hi> Magnacarta, <hi>wherein all</hi> vſury <hi>is generally con<g ref="char:EOLhyphen"/>demned.</hi>
+               </p>
+            </div>
+            <div type="law">
+               <head>3. <hi>Henry.</hi> 7. <hi>Chap.</hi> 5.6.</head>
+               <p>THis King made a ſtrict law, eſpecially for theſe damnable bargaines of <hi>vſury</hi> coloured by the name of new <hi>cheni<g ref="char:EOLhyphen"/>ſance,</hi> ſuch as dealt corruptly in it were to pay an hun<g ref="char:EOLhyphen"/>dred pound. Alſo if any man did lend 100. pound and tooke 120. more or leſſe in money or marchandiſe &amp;c. was to looſe his principall. Here hee condemned all <hi>vſurie,</hi> but in the 11. yeere of his raigne chap. 8. he repealed the former act and ina<g ref="char:EOLhyphen"/>cted an other to this effect.</p>
+               <p>
+                  <hi>All maner of perſon or perſons lending monie to and for a time, taking for the ſame lone, any thing more beſides or above the money lent by vvay of contract or covenant at the time of
+<pb n="20" facs="tcp:181246:13"/>the ſame lone</hi> (ſaving lawfull penalties for default of paiment) was to forfeit the moiety or one halfe of the principall there be other branches therein concerning corruption by way of che<g ref="char:EOLhyphen"/>niſance, &amp;c.</p>
+               <p>I obſerve from this how no <hi>vſurie</hi> is condemned but that which is impoſed vpon the borrower <hi>by way of contract or covenant</hi> at the time of the lending, if there were no contra<g ref="char:EOLhyphen"/>cting for gaine there was no breach of the Lawe, ſo that the borrower was not barred by this, but that he might gratifie the lender at his owne election.</p>
+            </div>
+            <div type="law">
+               <head>37. <hi>Henry.</hi> 8. <hi>Chap.</hi> 9.</head>
+               <p>KIng <hi>Henry</hi> repealed all the Lawes and ſtatutes made con<g ref="char:EOLhyphen"/>cerning <hi>vſurie</hi> before, and doeth enact, that if any man take above 10. in the 100. for a yere or more or leſſe mo<g ref="char:EOLhyphen"/>ney after that rate, he ſhould looſe treble the value of the ſumme lent, it is ſo likewiſe in cheniſance and wares, divers other clauſes and branches be therein.</p>
+               <p>This Statute is intituled an act againſt <hi>vſurie,</hi> it doth not per<g ref="char:EOLhyphen"/>ſwade any to take <hi>Vſury,</hi> but reſtraine him to certaine orders, the husbandman ſuffereth many weedes to grow in his ground he likes not, ſo this law doth tolerate that it allowes not, it remits men of puniſhment that take but 10. in the 100. but it doeth not warrant them to take any at all. Therefore <hi>M. Beza</hi> well noted, that the civill lawes of Princes by reaſon of the impiety of the people are often times tollerated when they cannot be taken away.</p>
+            </div>
+            <div type="law">
+               <pb n="21" facs="tcp:181246:13"/>
+               <head>5. &amp; 6. <hi>Edward.</hi> 6.</head>
+               <p>KIng <hi>Edvvard</hi> repealed the former act of King <hi>Henry</hi> 8. and forbiddeth generally all <hi>vſurie.</hi> He that tooke any ſhould not onely looſe the principall with the vſe, but alſo be puniſhed with impriſonment and make fine and ranſome at the Kings pleaſure.</p>
+               <p>The common ſaying is, ſome will take an ell where is given an inch: that liberty which that man of famous memory, King <hi>Henry</hi> 8. gave was abuſed, therefore his ſonne to avoid an in<g ref="char:EOLhyphen"/>convenience did cut off the occaſion: but as water being pent doth ſtrive more vpward, ſo the <hi>vſurer</hi> being reſtrained he waxed worſe, and therefore this Statute of King <hi>Edvvard</hi> continued not long.</p>
+               <p>Of all theſe Statutes before mentioned none remaine in force, but ſome of the braunches of the Statute of K. <hi>Henry</hi> 8. now I think it very neceſſary to handle more copiouſly ſome of thoſe particular and ſpeciall clauſes which be included in the laſt act againſt <hi>vſurie</hi> as a matter very expedient to be publiſh<g ref="char:EOLhyphen"/>ed, that many which knowe not how farre it extende may thereby avoid many extremities.</p>
+            </div>
+            <div type="law">
+               <head>
+                  <hi>13.</hi> Elizabeth Reg. Chap. <hi>8.</hi>
+               </head>
+               <p>OVr gratious Queene <hi>Elizabeth</hi> repealed the former act of her brother <hi>K. Edw.</hi> 6. and doth revive the Statute of
+<pb n="22" facs="tcp:181246:14"/>K. <hi>Henry</hi> 8. in this ſort, that (whereas it is the honour of En<g ref="char:EOLhyphen"/>gliſh lawes to be favourable) the acte of <hi>K. Henry</hi> ſhould be moſt largely and ſtrongly conſtrued to the repreſsing of <hi>vſury</hi> and puniſhing offenders therein.</p>
+               <p>In the reſt of that Statute which is now in moſt force there be 4. clauſes or braunches moſt ſpecially and neceſſarily to be noted and explaned.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>1.</hi> Braunch.</head>
+               <head type="sub">All bondes and contractes &amp;c. for money or other things whereupon ſhall be reſerved or taken above <hi>10.</hi> in the <hi>100,</hi> ſhall be void, &amp;c.</head>
+               <p>This is a dangerous clauſe in two reſpects, &amp; may happen to a man
+<list>
+                     <item>1. by his owne fault.</item>
+                     <item>2. by the neglige<g ref="char:cmbAbbrStroke">̄</g>ce of others.</item>
+                  </list>
+               </p>
+               <p>If a man for grippleneſſe will reſerve more then 10. in the 100. although he never takes it his principall is loſt. And this I deeme his owne fault.</p>
+               <p>If the writer deceiue a man in the making or dating of a bond, without the lenders privitie, his mony is loſt although he had no ſuch meaning. And this may happen to many a ſimple man through the negligence of others.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>2.</hi> Braunch.</head>
+               <head type="sub">He that takes above <hi>10.</hi> in the <hi>100.</hi> for mony, wares, &amp;c. ſhall forfeit thriſe as much, beſides impriſonment, fine, and Eccleſiaſticall correction.</head>
+               <p>There is difference betweene reſerving and taking <hi>Vſurie,</hi> he that reſerues it, neede not take it vnleſſe he will, but if he take it,
+<pb n="23" facs="tcp:181246:14"/>he is ſure of that he reſerued: it is a leſſer ſinne to promiſe, then performe ill, and a leſſe hurt to reſerue, then to take <hi>Vſurie:</hi> ther<g ref="char:EOLhyphen"/>fore this clauſe is more ſtraight then the former. A man may hazard himſelfe and his goods herein many waies.</p>
+               <p n="1">1. If a man takes aboue 10. pound in the 100. directly, he is conuicted by this branch.</p>
+               <p n="2">2. If a man takes aboue 10. pound in the 100. indirectly, he is in great daunger.</p>
+               <p>Indirect taking, is many waies to be taken: but I will note 2. eſpecially.</p>
+               <p>The taking of money but a day leſſe then a yeere, may indan<g ref="char:EOLhyphen"/>ger one, &amp;c.</p>
+               <p>There was one indebted to an <hi>Vſurer</hi> in a great ſome of mo<g ref="char:EOLhyphen"/>ney, the borrower dwelling farre off, came a day or two before his day of payment, and (with a friend of his) requeſted the <hi>Vſu<g ref="char:EOLhyphen"/>rer</hi> to take his money, ſaying that he came farre, and was at charges, and therefore would gladly giue him his whole allow<g ref="char:EOLhyphen"/>ance; after many intreaties the <hi>Vſurer</hi> tooke his money, but the borrower procured him a trebble miſchiefe afterward.</p>
+               <p>He that takes but 10. pound in the 100. in money, and the bo<g ref="char:EOLhyphen"/>rower beſtows ſome other gift of him, I cannot ſee how ſafely the <hi>Vſurer</hi> may take it without offence to the Law, if the bor<g ref="char:EOLhyphen"/>rower be not the better man. I heard it credibly reported of one that lent 200. pound to two men for a yere; the day being expired, and they vnprouided to pay the money, brought not onely the conſideration, but to perſwade the lender to let them haue the money an other yeare, they would needs inforce vpon him as a free gift a gown-cloath which he refuſed, neuertheleſſe vſing apt perſwaſions, that they had gained greatly by the mo<g ref="char:EOLhyphen"/>ny, at length by their importunitie, he tooke it, but how he was vſed afterward by the meanes of theſe men which gaue the gift, it were too odious to open. It were pitie that the othe of a bor<g ref="char:EOLhyphen"/>rower
+<pb n="24" facs="tcp:181246:15"/>ſhould be any way beneficiall to himſelfe about the thing he borrowes, there are many will not ſticke to beſtow an othe if their creditours doe but croſſe them, or call for their owne.</p>
+               <p n="3">3. One miſtaken worde of a writer, or falſe othe of a bor<g ref="char:EOLhyphen"/>rower, may hazard a man herein.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>3.</hi> Braunch.</head>
+               <head type="sub">He that takes aboue <hi>10.</hi> in the <hi>100.</hi> for money or wares, ſhall forfeit ſo much as ſhall be reſerued by way of vſurie, &amp;c.</head>
+               <p>THis branch is more fauourable then the former for two cauſes.</p>
+               <p n="1">1. Becauſe the <hi>Vſurer</hi> ſhall be puniſhed but with the loſſe of that he receiue without perill of the principall.</p>
+               <p n="2">2. Becauſe he ſhall haue no temporall or eccleſiaſticall corre<g ref="char:EOLhyphen"/>ction, though he looſe that which he taketh aboue the princi<g ref="char:EOLhyphen"/>pall, ſo it be but, or vnder 10. in the 100.</p>
+               <p>When K. Henry 8. did tollerate 10. pound in the 100. many abuſed that libertie vnder the colour of the Law, and when K. Edward 6. had vtterly taken away all <hi>vſurie,</hi> this inconveni<g ref="char:EOLhyphen"/>ence came, fewe or none would lend becauſe they might haue no allowance, whereupon her Maieſtie to auoyde this euill, made this remiſsiue clauſe.</p>
+               <pb n="25" facs="tcp:181246:15"/>
+               <p>This <hi>Braunch</hi> doth allowe no <hi>Vſurie</hi> at all, but doth leaue it after a ſort to the curteſie and conſcience of the borrower: for as the Lawe doth conuict no man without proofe, or take knowledge of this offence without information, ſo it is to be preſumed, that none can ſo fitly be an approouer as he that find<g ref="char:EOLhyphen"/>eth himſelfe grieued, which of neceſsitie muſt be the borrower becauſe he payeth the <hi>vſurie.</hi>
+               </p>
+               <p>The borrower hath this libertie by this branch for his owne benefit.</p>
+               <list>
+                  <item>1. If hee promiſe <hi>vſurie,</hi> he neede not to pay it vnleſſe he will.</item>
+                  <item>2. If he pay <hi>vſurie,</hi> he may recouer it againe if he be grieued.</item>
+                  <item>3. If he be willing to pay <hi>vſurie,</hi> he is at his owne choice to complaine.</item>
+               </list>
+               <p>Moſt of theſe common, or rather cunning <hi>Vſurers,</hi> are come to this paſſe, becauſe the law alloweth no <hi>vſurie,</hi> they will put in no <hi>vſe</hi> in their bonds, but leaue it to the courteſie of the bor<g ref="char:EOLhyphen"/>rower, if he giueth <hi>vſe</hi> they will take it, if none, they will note him another time when he ſtandes in neede, and for this cauſe, becauſe they are doubtfull of mens dealings, they will not put forth their money aboue 3. moneths, that the borower can hardly make any profitable returne of it in ſo ſhort time.</p>
+            </div>
+            <div type="part">
+               <pb n="26" facs="tcp:181246:16"/>
+               <head>
+                  <hi>4.</hi> Braunch.</head>
+               <head type="sub">This Statute doth not extend nor ſhalbe expounded to extend vnto any allowances or payments for the finding of Orphanes according to the auncient rates or cuſtomes of London, &amp;c.</head>
+               <p>IT is a godly act, that thoſe ſhould be prouided for that cannot prouide for themſelues; the Scripture willeth that the <hi>father<g ref="char:EOLhyphen"/>leſſe</hi> ſhould be prouided for. K. Hen. 3. K. Hen. 8. and our gratious Queene Elizabeth, haue for good cauſes graunted and continued this allowance: their allowance is 5. in the 100. which <hi>Hemingeus</hi> prooues to be lawfull, becauſe it doth not fall into the contract of <hi>Vſurie:</hi> his reaſon is this, <hi>Nam nec tuto<g ref="char:EOLhyphen"/>res de alieno obligantur mutuare, nec qui mutuum accipiunt, v<g ref="char:EOLhyphen"/>bi nulla, nec diuina, nec naturalis praeceſsit obligatio ſeu debi<g ref="char:EOLhyphen"/>tum, iuſtè gratitudinem pro accepto beneficio recuſare poſ<g ref="char:EOLhyphen"/>ſunt.</hi>
+               </p>
+               <p>There is great reaſon why allowance may be graunted to <hi>orphanes,</hi> and not to men.</p>
+               <p>Men haue wit and diſcretion to imploy their money in ma<g ref="char:EOLhyphen"/>ny things, though they lend not vpon <hi>Vſurie.</hi> With their mo<g ref="char:EOLhyphen"/>ney they may buy houſe and land, and ſaue by a reaſonable rent, or wares, and make a reaſonable gaine, or come or cattell, or o<g ref="char:EOLhyphen"/>ther commodities, and reape a reaſonable commoditie.</p>
+               <p>The <hi>orphan</hi> as he is yong in yeares, ſo he is in diſcretion, and wants that fore-ſight in trading &amp; traffique in the world, which experience of more yeares may bring at mans eſtate.</p>
+               <p>But it may be obiected, that the <hi>orphans</hi> money may be im<g ref="char:EOLhyphen"/>ploied
+<pb n="27" facs="tcp:181246:16"/>by an other, ſome other way then by allowance, ſo it may be alledged, vnleſſe the tutor or gouernour be an honeſt man, it will neuer be improoued, but he may impaire it vnder colour of many loſſes without iuſt cauſe, and ſo defeate the pore orphan of his portion, therefore very conuenient is this pro<g ref="char:EOLhyphen"/>viſo; for whatſoeuer gayne is got by the orphans money by others, yet the orphan ſhall be ſure to haue ſome allowance to<g ref="char:EOLhyphen"/>wards his education during his noneage, and his ſtocke to be ſafe at mans eſtate for his maintenance.</p>
+               <p>I haue dilated this whole <hi>Sta<g ref="char:EOLhyphen"/>tute</hi> for two cauſes:
+<list>
+                     <item>1. <hi>The knowledge of the ig<g ref="char:EOLhyphen"/>norant.</hi>
+                     </item>
+                     <item>2. <hi>The benefit of the Vſurer.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>There be many ſimple men which hauing no inſight into this <hi>Statute,</hi> are not aſhamed to ſay that it alloweth 10. in the 100. which indeede is a meere ſcandall and ſlaunder: for it infli<g ref="char:EOLhyphen"/>cteth a kinde of puniſhment, by the loſſe of the leaſt <hi>Vſurie</hi> that is taken: therefore ſuch as be ignorant of this Statute may now know it.</p>
+               <p>The <hi>Vſurer</hi> may ſee by this Statute, how many aduentures he is ſubiect to by lending his money to Vſurie; although he doth not <hi>quoad eventum</hi> like the husbandman that ſoweth his ſeede, or the merchant that croſſe the ſeas, aduenture: yet for all he doth <hi>quoad media</hi> vſe all the beſt meanes to ſaue his owne, he may be intercepted, and therefore he may learne to imploy his money otherwiſe to his benefit as well as others, and albeit his gaynes be greater many waies therein then after 10. in the 100. it wilbe leſſe noted, and himſelfe better eſteemed.</p>
+               <p>The chiefe ende I aymed at in the diſtribution of this Statute is, to draw an argument from the ſame to this effect,</p>
+               <p>
+                  <hi>Thoſe which write and speake most for Vſurie, ſay it depends vpon the poſitiue Law of the land.</hi>
+               </p>
+               <pb n="28" facs="tcp:181246:17"/>
+               <p>
+                  <hi>But the poſitiue Law of our land admits no Vſurie, but allow<g ref="char:EOLhyphen"/>ance for orphans.</hi>
+               </p>
+               <p>
+                  <hi>Therefore no Vſurie may be taken of any but allowance for or<g ref="char:EOLhyphen"/>phans.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Whether <g ref="char:V">Ʋ</g>ſurie may be taken of Rich-men.</head>
+               <p>MAny are of the opinion that <hi>Vſurie</hi> may be taken of the Rich without offence to the word of God, by permiſ<g ref="char:EOLhyphen"/>ſion of the <hi>Magiſtrate.</hi>
+               </p>
+               <p>
+                  <hi>M. Calvin</hi> writing vpon that place in the 22. of Exod. <hi>If thou lend money to my people, that is, to the porre with thee, thou ſhalt not be as an Vſurer to him,</hi> maketh this expoſition: <hi>Non niſi de pauperibus haberi ſermonem, ideo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſi cum diuitibus nego<g ref="char:EOLhyphen"/>tium ſit, liberum ius foenerandi permitti:</hi> his reaſon is this, <hi>Quia legiſlator rem vnam notando, alter am de qua ſubticet, vi<g ref="char:EOLhyphen"/>detur non damnari,</hi> he ſaith by all neceſſarie conſequence, the expreſſe and ſpeciall prohibition of the poore by name, doth giue an intended and intellectual permiſsion to others: inſomuch as he flatly affirmeth in another place <hi>vſuras quaſlibet abſque exceptione damnare nulla patitur ratio. octa. prae.</hi> 375.</p>
+               <p>
+                  <hi>M. Bucer</hi> giues many inſtances to this effect, which for bre<g ref="char:EOLhyphen"/>vitie I will omit.</p>
+               <p>
+                  <hi>Hemingeus</hi> approoues this kinde of <hi>vſurie</hi> euen from the very lawe of lending: for he ſaith, <hi>Indigentibus ſolis gratuita mutuatio debetur: &amp; non auaritiae inſatiabili ſervire debet.</hi>
+               </p>
+               <p>Euery contract which in his kind or by circumſtances ought to be free, if there be a compact to receiue any thing beſides the
+<pb n="29" facs="tcp:181246:17"/>principall <hi>eſt Vſurarius contractus,</hi> &amp; properly this is called <hi>V<g ref="char:EOLhyphen"/>ſurie. Gerſonis regula.</hi> From hence <hi>Hemingeus</hi> ſaith, <hi>non eſſe v<g ref="char:EOLhyphen"/>ſurarium co<g ref="char:cmbAbbrStroke">̄</g>tractum,</hi> which by circumſtances ought to be free. The free contract of lending concernes the poore, but if the Rich borrow, he ſaith, <hi>dico Vſuram hic propriè non committi propterea quod beneficium iſtud fuit liberum ad quod nec diuino nec natur ali iure eras obligatus:</hi> and in another place he ſaith, <hi>Quid enim peccat qui pro beneficio expectat gratitudinem,</hi> and affirmeth that it is naturall equitie, that for a good turne <hi>quod non iure debemus</hi> another be done, that there may be equalitie.</p>
+               <p>That the libertie may appeare to be lawfull for <hi>vſurie</hi> of the Rich, you ſhall heare the learned opinions of ſome vpon the 15. <hi>Pſalme. Lord, who ſhall dwell in thy Tabernacle? He that hath not giuen forth vpon Vſurie.</hi>
+               </p>
+               <p>
+                  <hi>M. Calvin</hi> ſaith, that the name of <hi>Neſeck</hi> which Dauid v<g ref="char:EOLhyphen"/>ſeth, beeing deriued of byting, declareth ſufficiently that <hi>vſurers</hi> are condemned ſo farre forth as they draw with them a libertie to pill and poll. In another place he ſaith, <hi>Si obijciant foenerato<g ref="char:EOLhyphen"/>res à Davide &amp; Ezech. in totum damnari, ſententias illas ad normam charitatis exigi debere arbitror: ideo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> non damnari niſi improbas exactiones, quibus creditor, poſthabita aequitate, debitorem ſuum oner at, ac premit.</hi>
+               </p>
+               <p>
+                  <hi>D. AEpinus</hi> writing vpon the 15. Pſal. doth name 3. kindes of men, <hi>Mendicantium, Indigentium, &amp; eorum qui ſunt Locuple<g ref="char:EOLhyphen"/>tes,</hi> and after he hath learnedly and largely handled the matter, he concludes thus, <hi>in tertio or dine non committi vſuram.</hi>
+               </p>
+               <p>
+                  <hi>Hemingeus</hi> vpon the 15. Pſal. ſaith, that it is manifeſt that the Pſalmiſt doth there ſpeake of biting <hi>vſurie,</hi> becauſe he doth vſe this word <hi>Neſeck. quod à mor ſu nomen habet:</hi> further he ſaith, that in this Pſalme is forbidden but that <hi>vſurie quae ante in Mo<g ref="char:EOLhyphen"/>ſe fuit interdicta,</hi> and this is his reaſon, <hi>Prophetae enim nullam nouam doctrinam afferunt ſed tantum Moſis ſunt Interpretes. fol.</hi> 958.</p>
+               <pb n="30" facs="tcp:181246:18"/>
+               <p>
+                  <hi>S. Augustin</hi> hath a ſenſible ſaying, where things are more plainly vttered in the Scripture, there muſt we learne how they are to be vnderſtoode in obſcure and darke places. <hi>Auguſt. lib.</hi> 83. <hi>quaeſt.</hi> from hence ſome frame a reaſon thus;</p>
+               <p>If all parts of the Scripture expound one an other (as they doe by the opinion of <hi>Chryſoſtome</hi> 2. <hi>Gen. homil.</hi> 13.) then ye muſt conſider, that as all riuers runne they neuer ſo crooked, haue re<g ref="char:EOLhyphen"/>courſe from the fountaine as the head, ſo all future places of proofe concerning <hi>vſurie,</hi> ſeeme they neuer ſo obſcure, haue reference and doe rely vpon the former, which M. <hi>Calvin</hi> and <hi>Hemingeus</hi> haue expounded before to concerne the poore.</p>
+               <p>Theſe learned men are to be reuerenced for their opinions, becauſe they reconcile themſelues after a ſort in their owne ſay<g ref="char:EOLhyphen"/>ings: for whatſoeuer they approoue in particular &amp; reſpectiue<g ref="char:EOLhyphen"/>ly for <hi>vſurie,</hi> they condemne generally by their concluſion.</p>
+               <p>M. <hi>Calvin</hi> ſaith, <hi>Praeceptum mutuandi abſque foenore, politi<g ref="char:EOLhyphen"/>cum eſt,</hi> and doth no further allow of <hi>vſurie</hi> then the lawe of the Magiſtrate permitteth.</p>
+               <p>
+                  <hi>Hemingeus</hi> prooues ſome <hi>vſurie</hi> lawfull, but how? <hi>ſi ſer<g ref="char:EOLhyphen"/>vatur aequalit as quam Magiſtratus ſtatuit.</hi>
+               </p>
+               <p>
+                  <hi>D. AEpinus</hi> though he ſaith <hi>in tertio ordine non committi vſuram,</hi> yet he addeth this, <hi>modo alioqui ab aequalitate non dece<g ref="char:EOLhyphen"/>datur,</hi> which is to be appointed by the Magiſtrate.</p>
+               <p>Theſe men doe no further defend <hi>vſurie</hi> then they referre their iudgements to the law of the Magiſtrate, we hauing no law to approoue it, their opinions are ſatisfied.</p>
+            </div>
+            <div type="part">
+               <head>Certaine reaſons why ſome rich men ought not to borrow vpon <hi>Vſurie.</hi>
+               </head>
+               <p>What ſhould mooue a Rich man to borow mony, hath he not
+<pb n="31" facs="tcp:181246:18"/>corne to make mony of, yet he perceives that markets are litle worth, and therefore he doth reſerve it to that ende the Iewes did at <hi>Ieruſalem, Amos</hi> 8. to make a dearth, and not as <hi>Ioſeph</hi> did in <hi>Egypt</hi> to relieve the famiſhed.</p>
+               <p>Another hath great ſtore of cattell, and may ſell ſome of them for money, but it may be, that cattell beare no price, or his grounds be vnderſtored.</p>
+               <p>Many haue divers other things which they may well forbeare and ſell in reſpect of any want which they doe ſpare and reteine vpon ſome covetous fore-caſts: for they preſume they ſhall looſe leſſe by allowing after ten in the 100. for money, then by preſent ſale of any of their co<g ref="char:cmbAbbrStroke">̄</g>modities at thoſe ordinary prices.</p>
+               <p>Rich-men I confeſſe may ſomtime want money and borrow for good and neceſſary conſiderations, but moſt commonly what cauſe doth conſtraine moſt of them to borrow? alas, it is lamentable to expreſſe.</p>
+               <p>One ſeeth an houſe and ground of his neighbours that were fit to be laid to his owne, he will vſe all the meanes that may be to have it, (as <hi>Ahab</hi> did by <hi>Naboth</hi> hee would needes have his peece of ground to make him a garden, becauſe it was neere his houſe 1. King. 21.2.) if he wants mony to purchaſe it, he will take it vp at Vſans.</p>
+               <p>Another hath entred into a great purchaſe which hath a com<g ref="char:EOLhyphen"/>mon appendant to it for the benefite of the poore, which he meanes to aprone to his owne vſe (a thing too common in theſe daies:) the Prophet could ſee this in his time: for he ſaith, <hi>They covet fieldes, and take them by violence: and houſes, and take them away, ſo they oppreſſe a man and his houſe.</hi> Micah. 2.2. If he wants money to wade through withall, he will non ſticke to viſit the <hi>vſurer</hi>
+               </p>
+               <p>There be others which be the cormorants of a Common<g ref="char:EOLhyphen"/>weale that borrow mony of purpoſe to buy corne, to hoord it
+<pb n="32" facs="tcp:181246:19"/>vp to inhaunce the price, to ſhip it away to make it ſcarſe, vſing all pollicie againſt Gods providence to make a famine and there<g ref="char:EOLhyphen"/>by procure the curſes of the poore, Prov. 28.</p>
+               <p>There be others that borrow mony to conſume in prodigall maner, in bravery, banketting, voluptuous living, &amp; ſuch like: they conſume that in waſt which many poore doth want, the coſtly apparell on their backs do ſo ſtick in the mercers bookes, and the dainty cates for their bellies, doth ſo ſoake their purſes, and the riotous company they keepe is ſuch a moath to their mony that they are inforced through folly to reſort to the <hi>vſu<g ref="char:EOLhyphen"/>rer</hi> as their beſt friend, and very glad are they if they may get mony: though they obtaine it by pawning their iewels, plate, or landes.</p>
+               <p>If any of theſe or others like theſe do borrow mony for theſe or the like purpoſes. He that doth lend them any doth procure a great miſchiefe, or if he hath any foreknowledge of it or ſuſ<g ref="char:EOLhyphen"/>picion of ſuch a pretence, he is partaker of the ſinne and curſe whereof the borrower is culpable. <hi>Heming.</hi> ſaith, we ought not to lend to ſuch neither by divine, natural, or humane law, which do abuſe mony to theirs and others deſtructions, his reaſons fol<g ref="char:EOLhyphen"/>lowes. <hi>Nam qui occaſionem damni dedit, damnum dediſſe vide<g ref="char:EOLhyphen"/>tur, quamobrem fit reus alieni peccati ac ſiſiuum proprium onus ſibi non ſatis eſſet.</hi> And it appeareth in the Roman. 1.31. that not onely the followers but ſuch as were favourers and furtherers of evill were reprooved and puniſhed.</p>
+               <p>This inconvenience hath growen by reaſon of lending to the Rich, ſince they began to borow the law of free-lendidg to the poore hath bin laid aſide: for it is now come to this paſſe that the poore man ſhall ſooner begge then borrow, becauſe the <hi>Vſurer</hi> thinke all loſt that is lent to him, or litle to be got by lending vn<g ref="char:EOLhyphen"/>to him. He that will lend to the rich to ſerve his ſiniſter commo<g ref="char:EOLhyphen"/>ditie, when he ought to lend to the poore to ſatisfie his neceſsi<g ref="char:EOLhyphen"/>tie,
+<pb n="33" facs="tcp:181246:19"/>ſuch thrift is a braunch of theft by the opinion of <hi>D. P. Mar<g ref="char:EOLhyphen"/>tyr</hi> vpon the 2. Rom. and all his mony will but turne to his own miſery.</p>
+               <p>The <hi>Vſurer</hi> is taught generally in the word to lend, moſt eſ<g ref="char:EOLhyphen"/>pecially to his neighbour in the time of his neceſsity <hi>Syrac.</hi> 29. <hi>Hemingeus</hi> writing vpon this place, ſaith. <hi>Hic aperte ſapiens reſtringit mutuationis debitum ad neceſsitatis tempus.</hi> It is co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>manded by Moſes, <hi>Thou ſhalt lend him ſufficient for his neede which he hath. Deut.</hi> 15.8. It is commended by <hi>David, The righ<g ref="char:EOLhyphen"/>teous is mercifull and lendeth Pſal.</hi> 112.5. It is imitated of the godly; <hi>I my breethren and ſervants</hi> (ſaith <hi>Nehemiah</hi>) <hi>doe lend them money and corne. Nehem.</hi> 5.10.</p>
+               <p>Sithens we ought eſpecially to lend to the poore, euen from the very nature of the law of lending it ſelfe, it were very neceſ<g ref="char:EOLhyphen"/>ſary to diſtinguiſh the eſtates of men, that the poore man may be the better knowne, thereby to take away all colour of excuſe from the <hi>Vſurer.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>A deſcription of ſome ſuch poore men as <hi>WE ARE COMMAVNDED TO</hi> lend vnto vvithout Vſurie.</head>
+               <p>THe begger that liveth of Almes, ſuch an one as is blind, lame, or having other defectes of nature, to this man we are preciſely inioyned to give &amp; not properly ſaid to lend, vnleſſe it be to the Lord. <hi>He that hath mercy on the poore, len<g ref="char:EOLhyphen"/>deth to the Lord,</hi> Prov. 19. for he cannot reſtore that which he receive. Hereof ſaith the <hi>Preacher, Caſt thy bread vpon the wa<g ref="char:EOLhyphen"/>ters. Eccl.</hi> 11.1. as a thing loſt, this is none of thoſe poore-men pro<g ref="char:EOLunhyphen"/>perly to whom the ſcripture willeth any great ſumme of mony to be lent, but otherwiſe to be relieved.</p>
+               <pb n="34" facs="tcp:181246:20"/>
+               <p>Theſe are to be noted
+<list>
+                     <item>
+                        <hi>Artificers</hi>
+                     </item>
+                     <item>
+                        <hi>Labourers</hi>
+                     </item>
+                     <item>
+                        <hi>Husbandmen</hi>
+                     </item>
+                     <item>
+                        <hi>Young mariedmen</hi>
+                     </item>
+                  </list> in the number of the poore.</p>
+               <div type="section">
+                  <head>Artificers.</head>
+                  <p>THe <hi>Artificer</hi> which hath nothing but his bare fingers and tooles to get his living reſpecting his charge is to be dee<g ref="char:EOLhyphen"/>med a poore man: for as cunning without tooles can do nothing, ſo tooles without wherewith can not be ſet on work, and without worke the man ſhall ſoone begge, yet having worke he may live in want. To this man we muſt not only lend without <hi>vſurie,</hi> but (if we miſtruſt him) we muſt take ſuch a pledge as he may well ſpare: it appeareth ſo in Deuter. 24.10. <hi>Thou ſhalt not goe into his houſe to fetch his pledge, but thou ſhalt ſtand without, and the man that borrowed it of thee, ſhall bring the pledge out of the dores to thee.</hi> And this ſtandeth with great reaſon: for if a man ſhould take his tooles to pledge, he ſhall not ſave ſo much by borrowing as he ſhall looſe by his worke for want of his tooles.</p>
+               </div>
+               <div type="section">
+                  <head>Labourers.</head>
+                  <p>THe <hi>Labouring-man</hi> that hath neither houſe or home of his owne to hold his head in but liveth onely of his bare &amp; bodily labour is to be accounted a poore man, whoſe neceſsitie is ſuch ſometime as he muſt needs borrow, and vpon ſuch a pledge as he cannot well forbeare, as his garment or ſuch like, therefore we muſt neither take <hi>vſurie</hi> of him nor deteine his pledge; for it is written, <hi>If it be a poore body thou ſhalt not ſleepe vvith his pledge, but ſhalt restore it when the Sunne goe
+<pb n="35" facs="tcp:181246:20"/>downe that he may ſleepe in his raiment. Deut.</hi> 24.12. <hi>Exod.</hi> 22.26. and it is an horrible thing to withold it, it is this that make the Prophet cry out againſt the Rich, <hi>They lie downe vpon clothes laide to pledge, Amos</hi> 2.8. &amp; Iob deſcribing the impiety of the wicked ſaith, <hi>They take the pledge of the poore. Iob</hi> 24.9.</p>
+               </div>
+               <div type="section">
+                  <head>Husbandmen.</head>
+                  <p>THe <hi>Husband-man</hi> that hath but a ſimple cottage of his owne and keepeth a beaſt or two upon the common to maintaine his charge, is to be eſteemed a poore man, whoſe eſtate is ſuch as miniſtreth occaſion to borow; to whom we ought to lend without <hi>vſurie,</hi> and yet we muſt not take his cattell for a pledge: for it is reprooved, <hi>You take the widovves Oxe to pledge.</hi> Iob. 24.23. leſt in ſo doing we ſooner impove<g ref="char:EOLhyphen"/>riſh then pleaſure him: and it is no more tollerable then to take the nether or the vpper milſtone to pledge. <hi>Deut.</hi> 24.6. for this gage is his living.</p>
+               </div>
+               <div type="section">
+                  <head>Young married men.</head>
+                  <p>THe <hi>Young married man</hi> that is bare to begin the world and wants wherwith to furniſh and follow his trade, is to be eſteemed a poore man: the originall of the cuſtome of money-mariages was made as a meane for the benefit of new beginners, to the end they might gather ſome ſtocke to ſet vp withall, (which offrings are now commonly abuſed amongſt the better ſort.) For this cauſe many godly men have giue<g ref="char:cmbAbbrStroke">̄</g> great
+<pb n="36" facs="tcp:181246:21"/>ſummes of mony to remaine as a ſtock for ever in the cities and townes where they dwelt, that it might be freely lent to benefit ſuch poore beginners, therefore <hi>Hemingeus</hi> noteth this to be one, to whom we ought to lend without <hi>vſurie.</hi>
+                  </p>
+                  <p>Generally
+<list>
+                        <item>He is to be deemed a poore-man which hath need to borrow and hath nothing that he may conve<g ref="char:EOLhyphen"/>niently forbeare to make money of.</item>
+                        <item>He is a rich-man (in reſpect of the other) that bor<g ref="char:EOLhyphen"/>roweth when he hath ſomwhat which he might very well ſpare to make money of.</item>
+                     </list>
+                  </p>
+                  <p>To take <hi>Vſurie</hi> of theſe men or ſuch like whoſe poverty ap<g ref="char:EOLhyphen"/>peares either in our conſcience or acquaintance, it is a moſt odi<g ref="char:EOLhyphen"/>ous act: for not only the word of God but all Writers do eſpe<g ref="char:EOLhyphen"/>cially condemne this. The places of Scripture are before ex<g ref="char:EOLhyphen"/>preſſed, the opinion of ſome auncient writers follow.</p>
+                  <p>
+                     <hi>An crudelior eſt,</hi> ſaith <hi>S. Auguſtine:</hi> Is he more cruell that ta<g ref="char:EOLhyphen"/>keth any thing by force from the rich, then he which doth cru<g ref="char:EOLhyphen"/>cifie the poore with <hi>vſurie.</hi>
+                  </p>
+                  <p>
+                     <hi>Nihil vſuris turpius. S. Chryſostom</hi> ſaith, there is no <hi>vſu<g ref="char:EOLhyphen"/>rie</hi> more filthy then that which is taken of the poore.</p>
+                  <p>
+                     <hi>Vſuras quaerere,</hi> ſaith <hi>S. Ierome.</hi> To take <hi>Vſury</hi> of ſuch it is all one to deceive or drawe away by violence.</p>
+                  <p>
+                     <hi>Sine ferro dimicat. S. Ambroſe</hi> to that effect ſaith he doth re<g ref="char:EOLhyphen"/>venge him ſelfe without a ſword that taketh <hi>vſury.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>A praemonition for poore men.</head>
+               <p>AS you are deſirous to borrowe when you neede, ſo you muſt be carefull to pay when you borrow, although you
+<pb n="37" facs="tcp:181246:21"/>ought to pay no <hi>vſurie</hi> at all, yet I cannot finde in all the ſcrip<g ref="char:EOLhyphen"/>tures but that you ought to pay your debts. The Pſalmiſt ſaith, <hi>The wicked borrovveth and payeth not againe.</hi> Pſal. 37.21. the poore widow made a conſcience to pay her debts that had but a pitcher of oyle, for this cauſe the Prophet did increaſe her oile, and willed her firſt to go ſell ſome of it to pay her debts, &amp; ſhee and her children to live of the reſt. 2. King. 1.2. there is now no fruition of the 7. yeere of freedome vnleſſe the Creditours of their conſcience will releaſe their debts.</p>
+            </div>
+            <div type="part">
+               <head>The opinion of Writers concerning <hi>VSVRIE.</hi>
+               </head>
+               <p>S. <hi>Barnard</hi> calleth <hi>vſurie, venenum patrimonij,</hi> the poyſon of a mans inheritance, he ſaith in another place, <hi>Quid eſt vſura legalis? latro praedicens quod intendit ſcilicet rapere. S. Chryſostome</hi> ſaith, that <hi>vſurie</hi> in his time was accompted an extreme impudencie. hom. 57.</p>
+               <p>
+                  <hi>S. Hierome</hi> ſaith, <hi>vſurie</hi> is a ſpeciall cry of ſedition.</p>
+               <p>
+                  <hi>S. Baſil</hi> vpon the 14. Pſalm. ſaith that <hi>vſurie</hi> have beene the meanes to bring many an one to the halter, his meaning is by paying <hi>vſurie</hi> they haue growen poore, and ſo fall aſtealing, and at laſt come to hanging.</p>
+               <p>
+                  <hi>Iuſtinius</hi> the Emperour in the civill law ſaith, that to take <hi>v<g ref="char:EOLhyphen"/>ſurie</hi> is to rob by order and ſufferance of law.</p>
+               <p>
+                  <hi>M. Beza</hi> ſaieth, Chriſtian charity forbiddeth a man to put forth mony to <hi>vſurie.</hi>
+               </p>
+               <p>
+                  <hi>Biſh. Iuell</hi> ſaith, that <hi>vſurie</hi> hardeneth the heart: it is the curſe of God and the people.</p>
+               <pb n="38" facs="tcp:181246:22"/>
+               <p>
+                  <hi>S. Ambroſe</hi> vpon the 22. of <hi>Ezek.</hi> ſaith, See how the Prophet hath coupled <hi>Idolatry</hi> and <hi>Vſurie</hi> together that one might counterpoiſe the other in euill.</p>
+               <p>
+                  <hi>Pomerianus</hi> ſaith, that <hi>vſurie</hi> is the preſent poyſon of the Church and common-wealth.</p>
+               <p>
+                  <hi>Muſculus</hi> ſaith, graunt <hi>vſury</hi> and then take away the law of loue: he tearmes it in another place, the fire of <hi>Vſurie</hi> as a thing that conſumes.</p>
+               <p>
+                  <hi>Lactantius</hi> ſaith, let a Chriſtian take this courſe, that in len<g ref="char:EOLhyphen"/>ding he take no <hi>vſurie,</hi> for that is againſt the law of lending. lib. 6. cap. 18.</p>
+               <p>
+                  <hi>Vnaprincipalis ratio Bartholomei Sepolitani.</hi> againſt <hi>vſurie,</hi> if a man ſhould pay for that he borrow, he ſhould give increaſe for his owne, for he that lendeth doth transferre the dominion and the vſe together.</p>
+               <p>
+                  <hi>Melancthon</hi> doeth alledge the like reaſon, lending to <hi>Vſury</hi> fighteth with aequalitie: for the rule of aequality ſaith it is not lawfull to make againe of another mans goods.</p>
+               <p>
+                  <hi>Luther</hi> complained in his time that <hi>Vſurie</hi> had overthrowen whole countries.</p>
+               <p>The auncient Romans for a time abhorred <hi>Vſurie</hi> as a ſpeciall enormitie, but after they gave entertainment to it, it turned to to their deſtruction. <hi>Hem.</hi>
+               </p>
+               <p>
+                  <hi>Egypt</hi> was overwhelmed with <hi>vſury,</hi> and ſo were the <hi>Iarmyns.</hi>
+               </p>
+               <p>The <hi>Perſians</hi> abſtaine it as a practiſe of lying and deceit.</p>
+               <p>The <hi>Indians</hi> can not abide it, nor the <hi>French-men.</hi>
+               </p>
+               <p>The <hi>Engliſh-men</hi> have loathed it as Chronicles record be<g ref="char:EOLhyphen"/>fore the <hi>Danes</hi> and <hi>Saxons.</hi>
+               </p>
+               <p>Moſt countries haue contemned <hi>vſury,</hi> as a thing very odi<g ref="char:EOLhyphen"/>ous and againſt nature, therefore many which were led but by the light of nature haue inveyed againſt it.</p>
+               <p>
+                  <hi>Ariſtotle</hi> ſaieth, that <hi>vſury</hi> is againſt nature: his reaſon is
+<pb n="39" facs="tcp:181246:22"/>this, <hi>Pecunia natura non poteſt parere ergo vſuram expecunia capere pugnat cum natura.</hi>
+               </p>
+               <p>
+                  <hi>Plutarcke</hi> ſaith, that it is againſt nature to take <hi>vſurie,</hi> for this cauſe <hi>Ex nihilo nihil fit.</hi>
+               </p>
+               <p>
+                  <hi>Alphon ſus</hi> ſaith, that <hi>vſurie</hi> is the very death of nature.</p>
+               <p>
+                  <hi>Cato</hi> beeing demanded what it was to take <hi>vſurie,</hi> anſwered, <hi>Quid hominem occidere?</hi>
+               </p>
+               <p>
+                  <hi>Plato</hi> made a law, that he which tooke <hi>vſurie,</hi> he ſhould loſe both the principall and the <hi>vſurie.</hi> And for that it was ſo exe<g ref="char:EOLhyphen"/>crable, he did expell all <hi>vſurie</hi> out of his common-wealth. <hi>in quinto de legibus.</hi>
+               </p>
+               <p>I could repeate many others to this effect, but we may per<g ref="char:EOLhyphen"/>ceiue how <hi>vſurie</hi> hath beene eſteemed by theſe; although it be a principle in reaſon, that the practiſe beeing ill reputed of, the practitioner can haue no better, yet it ſhall not be amiſſe to ſet forth the diſcredible account hath beene made of <hi>Vſurers</hi> in moſt ages and times.</p>
+            </div>
+            <div type="part">
+               <head>How <g ref="char:V">Ʋ</g>ſurers haue beene accounted of.</head>
+               <p>
+                  <hi>HEmingeus</hi> beeing a boy, ſaith he could not remember a<g ref="char:EOLhyphen"/>boue 2. knowne <hi>Vſurers</hi> in the lande he liued in, they flouriſhed a while, but their children after them came to pouertie and reproch, ſo true is that <hi>verſe,</hi>
+               </p>
+               <q>Ex male quaeſitis non gaudet tertius haeres.</q>
+               <p>In the 12. <hi>Centuries</hi> 4 chap. it is reported by thoſe that wrote that eccleſiaſticall <hi>Storie,</hi> that there was not an <hi>Vſurer</hi> to be found in all the countrey, and if an <hi>vſurer</hi> came to be knowne, his houſes were called the deuils houſes, his fields the deuils croppe, &amp;c.</p>
+               <pb n="40" facs="tcp:181246:23"/>
+               <p>
+                  <hi>Brunnion</hi> preaching vpon a time to his people in the pre<g ref="char:EOLhyphen"/>ſence of ſome <hi>vſurers;</hi> he demanded if any <hi>vſurer</hi> were pre<g ref="char:EOLhyphen"/>ſent, not an <hi>vſurer</hi> would ſpeake: inſomuch as he asked if any Scavinger were there: a Scavinger made anſwer he was one: hereupon the preacher ſaid, the ſcauinger was of better account then the <hi>vſurer:</hi> for the Scavinger was not aſhamed to heare and anſwer to his name and title when he was called, but the <hi>v<g ref="char:EOLhyphen"/>ſurer</hi> was.</p>
+               <p>The <hi>Vſurers</hi> are aſhamed at this day of their title, more then other men: ſome write themſelues gentlemen, merchants: o<g ref="char:EOLhyphen"/>thers, grocers, mercers, but they will not write themſelues <hi>Vſu<g ref="char:EOLhyphen"/>rers:</hi> for indeede they are aſhamed of the name and word of <hi>v<g ref="char:EOLhyphen"/>ſurie,</hi> and therefore they haue got theſe fine tearmes: they will not ſay, let their money to <hi>vſurie;</hi> but to <hi>intereſt,</hi> or put it to <hi>v<g ref="char:EOLhyphen"/>ſans,</hi> or <hi>they take conſideration, rent, or an honourable rewarde.</hi> If they did thinke well of <hi>vſurie,</hi> they would neuer cloake it vnder other contracts.</p>
+               <p>
+                  <hi>Dauid</hi> praying againſt his enemies, Pſal. 99. wiſheth them this plague, <hi>Let the extortioner take all his goods.</hi> The <hi>Septua<g ref="char:EOLhyphen"/>ginta, Pagne, Tremellius</hi> and <hi>Iunius</hi> tranſlate this word extor<g ref="char:EOLhyphen"/>tioner, <hi>Vſurer.</hi>
+               </p>
+               <p>
+                  <hi>Muſculus</hi> commenting vpon the ſame place ſaith, ſee howe <hi>Dauid</hi> praies that his enemies might light in the <hi>vſurers</hi> hands; noting thereby what a curſe it was to goe to an <hi>vſurer,</hi> and howe the <hi>vſurer</hi> was the meanes to convey the ſame curſe to others.</p>
+               <p>The Prophet <hi>Amos</hi> chap. 8. cryeth out againſt ſuch as ſolde the poore for old ſhoes. <hi>Gualter</hi> writing vpon that place ſaith, it is common to all, but ſpecially to the <hi>vſurers.</hi>
+               </p>
+               <p>
+                  <hi>S. Ambroſe</hi> complained in his time, that by the meanes of <hi>v<g ref="char:EOLhyphen"/>ſurers,</hi> parents were inforced to ſet forth their children to ſale, or binde them to captiuitie, for the payment of their debts, and
+<pb n="41" facs="tcp:181246:23"/>yet neuer came to poſſeſſe their inheritance.</p>
+               <p>
+                  <hi>Luther</hi> reports that <hi>Caeſar</hi> comma<g ref="char:cmbAbbrStroke">̄</g>ded that an <hi>vſurer</hi> ſhould not be counted and iudged by law an honeſt perſon.</p>
+               <p>M. <hi>Calvin</hi> ſaith, it is rare to ſee an honeſt man and an <hi>vſurer.</hi>
+               </p>
+               <p>
+                  <hi>Baldus</hi> ſaith, an <hi>vſurer</hi> is a defamed perſon, and ſhall not en<g ref="char:EOLhyphen"/>ioy ſuch goods as are giuen him.</p>
+               <p>
+                  <hi>Hemingeus</hi> ſaith, the <hi>vſurer</hi> might not make an offering at the altar, neither was he preferred to dignitie or called to of<g ref="char:EOLhyphen"/>fices.</p>
+               <p>Thoſe which trauell the low Countries ſay the <hi>vſurer</hi> is ſo baſely accounted of, that no man will be in his companie, and you ſhall ſooner get one to goe to a brothel-houſe then to an <hi>v<g ref="char:EOLhyphen"/>ſurers</hi> houſe.</p>
+               <p>The celebration of a maſſe would neuer ſuffer the <hi>vſurer</hi> to kiſſe the paxe; none would fetch fire at an <hi>vſurers</hi> houſe; the boyes wondred and all men hiſt at an <hi>vſurer.</hi>
+               </p>
+               <p>A thiefe was better eſteemed then an <hi>vſurer:</hi> for a thiefe was to make but double reſtitution, the <hi>vſurer</hi> quadruple. <hi>Heming. Iac.</hi> 5.</p>
+               <p>
+                  <hi>Licurgus</hi> would not ſuffer an <hi>vſurer</hi> to dwell in <hi>Sparta,</hi> nor <hi>Plato</hi> any to dwell in <hi>Graecia.</hi>
+               </p>
+               <p>If the Scripture willeth vs to ſhunne things of ill report, what account ſhall we make of an <hi>vſurer</hi> that hath ſo bad a report.</p>
+            </div>
+            <div type="part">
+               <head>Epiphonema.</head>
+               <p>WHether we are to regard in theſe Writers, <hi>the time,</hi> becauſe it is many yeres ſince ſome of them wrote; or <hi>the place,</hi> becauſe moſt are forrain writers, where the
+<pb n="42" facs="tcp:181246:24"/>generation of the <hi>Iewes</hi> are hardly rooted out; or any ſuch like circumſtances. Certes I would not wiſh the <hi>Vſurer</hi> to ſtand vp<g ref="char:EOLhyphen"/>on ſuch cauils, but ſeeing not onely the word of God, but all a<g ref="char:EOLhyphen"/>ges, nations, lawes, and ſects of perſons doe condemne <hi>vſurie</hi> as a ſinne moſt odious and opprobrious, I would haue him ob<g ref="char:EOLhyphen"/>ſerue that ſame faſt in Eſay 58.6. <hi>to looſe the bonds of wickednes. S. Hierome</hi> writing vpon that place, vnderſtands by it the ex<g ref="char:EOLhyphen"/>treame bonds that <hi>Vſurers</hi> wrappe others in, So getting his goods in the feare of God, they will be to his comfort while he liueth, &amp; without pricke to his con<g ref="char:EOLhyphen"/>ſcience when he dieth.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:181246:24"/>
+         </div>
+      </body>
+   </text>
+</TEI>
